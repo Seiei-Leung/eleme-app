@@ -2,13 +2,16 @@
 
 仿饿了么app中的外卖商店项目
 
-## 所用到的框架与插件
+## 框架、插件与知识
 
 - vue-cli
 - vue-router
 - vuex
 - vue-resource
 - better-scroll 插件
+- ESLINT
+- stylus
+- node 中的 `express` 库
 
 ## 安装
 
