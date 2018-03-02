@@ -1,8 +1,8 @@
-#仿饿了么app
+# 仿饿了么app
 
 仿饿了么app中的外卖商店项目
 
-##所用到的框架与插件
+## 所用到的框架与插件
 
 - vue-cli
 - vue-router
@@ -10,7 +10,7 @@
 - vue-resource
 - better-scroll 插件
 
-##安装
+## 安装
 
 安装依赖：
 ```
